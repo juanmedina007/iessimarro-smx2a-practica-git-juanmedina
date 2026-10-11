@@ -3,4 +3,4 @@
 2. VALORANT
 3. Rocket League
 4. Minecraft
-* 5. Valorant - Joc de punteria i estrategia
+5. Brawl Stars
