@@ -1,0 +1,4 @@
+# Quadern de Videojocs
+Autor: Juan Medina (@juanmedina007)
+Per què he triat este tema: M'agrada molt el món dels videojocs i volia recopilar informació sobre ells.
+
